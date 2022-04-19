@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **LinkedIn & GitHub**
 
-- 📄 Know about my experiences [my experiences](https://docs.google.com/document/d/1UXMRIDVdKBlUgGLE7VoLlyNk3xUIcRBdnKVycBB7DY4/edit?usp=sharing)
+- 📄 Know more about [my experiences](https://docs.google.com/document/d/1UXMRIDVdKBlUgGLE7VoLlyNk3xUIcRBdnKVycBB7DY4/edit?usp=sharing)
 
 - ⚡ Fun fact **I love to eat…**
 
