@@ -11,7 +11,7 @@
 
 - 📫 Reach me on **tushitsaxena4@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1UXMRIDVdKBlUgGLE7VoLlyNk3xUIcRBdnKVycBB7DY4/edit?usp=sharing](https://docs.google.com/document/d/1UXMRIDVdKBlUgGLE7VoLlyNk3xUIcRBdnKVycBB7DY4/edit?usp=sharing)
+- 📄 Know about [my experiences](https://docs.google.com/document/d/1UXMRIDVdKBlUgGLE7VoLlyNk3xUIcRBdnKVycBB7DY4/edit?usp=sharing)
 
 - ⚡ Fun fact **I love to eat…**
 
