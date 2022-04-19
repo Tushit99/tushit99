@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tushit Saxena</h1>
-
+<h2>  I am Tushit Saxena from Jamshedpur Jharkhand. Learning Full-Stack Web Development at Masai School.  </h2>
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
