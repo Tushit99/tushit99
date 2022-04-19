@@ -13,7 +13,7 @@
 
 - 📄 Know about [ my experiences ](https://docs.google.com/document/d/1UXMRIDVdKBlUgGLE7VoLlyNk3xUIcRBdnKVycBB7DY4/edit?usp=sharing)
 
-- ⚡ Fun fact **I love to eat…**
+- ⚡ Fun fact = **I love to eat…**
 
 
 
