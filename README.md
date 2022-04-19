@@ -3,13 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushit99&label=Profile%20views&color=0e75b6&style=flat" alt="tushit99" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tushit99" alt="tushit99" /></a> </p>
+
 - 🔭 I’m currently learning **Frontend & Backend**
 
 - 🌱 I’m currently learning **MERN stack**
 
 - 👯 I’m looking to collaborate on **LinkedIn & GitHub**
 
-- 📄 Know more about [my experiences](https://docs.google.com/document/d/1UXMRIDVdKBlUgGLE7VoLlyNk3xUIcRBdnKVycBB7DY4/edit?usp=sharing)
+- 📫 How to reach me **tushitsaxena4@gmail.com**
+
+- 📄 Know about my experiences [https://docs.google.com/document/d/1UXMRIDVdKBlUgGLE7VoLlyNk3xUIcRBdnKVycBB7DY4/edit?usp=sharing](https://docs.google.com/document/d/1UXMRIDVdKBlUgGLE7VoLlyNk3xUIcRBdnKVycBB7DY4/edit?usp=sharing)
 
 - ⚡ Fun fact **I love to eat…**
 
