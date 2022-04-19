@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **LinkedIn & GitHub**
 
-- 📫 Reach me on **tushitsaxena4@gmail.com**
+- 📫 Reach me on tushitsaxena4@gmail.com
 
 - 📄 Know about [my experiences](https://docs.google.com/document/d/1UXMRIDVdKBlUgGLE7VoLlyNk3xUIcRBdnKVycBB7DY4/edit?usp=sharing)
 
