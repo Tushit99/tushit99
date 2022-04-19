@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tushit Saxena</h1>
-<h3 align="center">I am Tushit Saxena from Jamshedpur Jharkhand. <br> Learning Full-Stack Web Development at Masai School.</h3>
+<h3 align="center"> Learning Full-Stack Web Development at Masai School.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushit99&label=Profile%20views&color=0e75b6&style=flat" alt="tushit99" /> </p>
 
