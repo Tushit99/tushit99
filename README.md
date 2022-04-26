@@ -13,7 +13,9 @@ hi, I am Tushit Saxena from jamshedpur jharkhand. I learned Full-Stack Web Devel
 
 - 📫 Reach me on **tushitsaxena4@gmail.com**
 
-- 📄 Know about [ my experiences ](https://docs.google.com/document/d/1UXMRIDVdKBlUgGLE7VoLlyNk3xUIcRBdnKVycBB7DY4/edit?usp=sharing)
+- 📄 Know about [ my experiences ](https://docs.google.com/document/d/1UXMRIDVdKBlUgGLE7VoLlyNk3xUIcRBdnKVycBB7DY4/edit?usp=sharing) 
+
+- 💬 ask me about anything, i am happy to help 
 
 - ⚡ Fun fact > **I love to eat…**
 
