@@ -17,7 +17,11 @@ Hello stranger! my name is Tushit Saxena and I am a Full Stack Developer, passio
 
 - 💬 ask me about anything, i am happy to help 
 
-- ⚡ Fun fact > **I love to eat…**
+- 😄 Pronouns: He/His
+
+-⚡ Fun Fact: Imagination is more important than knowledge 
+
+-💬 Have a look at my [portfolio.](https://stupendous-babka-8d1f3a.netlify.app)
 
 
 
