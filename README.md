@@ -1,7 +1,7 @@
 <h1 align="center">Hi,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Tushit Saxena</h1>
 <h3 align="center"> Learning Full-Stack Web Development at Masai School.</h3>
 
-hi, I am Tushit Saxena from jamshedpur jharkhand. I learned Full-Stack Web Development at Masai School. 
+Hello stranger! my name is Tushit Saxena and I am a Full Stack Developer, passionate about building digital products that improve everyday experience for people. I love to work on exciting projects that test what I've learnt, whilst being exposed to the power and potential of the ever-evolving technologies around us. 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushit99&label=Profile%20views&color=0e75b6&style=flat" alt="tushit99" /> </p>
 
