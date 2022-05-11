@@ -21,7 +21,7 @@ Hello stranger! my name is Tushit Saxena and I am a Full Stack Developer, passio
 
 - ⚡ Fun Fact: Imagination is more important than knowledge 
 
-- 💬 Have a look at my [portfolio.](https://stupendous-babka-8d1f3a.netlify.app)
+- 💬 Have a look at my https://tushitsaxena.netlify.app
 
 
 
