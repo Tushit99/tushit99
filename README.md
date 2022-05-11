@@ -13,7 +13,7 @@ Hello stranger! my name is Tushit Saxena and I am a Full Stack Developer, passio
 
 - 📫 Reach me on **tushitsaxena4@gmail.com**
 
-- 📄 Know about [ my experiences ](https://tushitsaxena.netlify.app/) 
+- 📄 Know about [ my experiences ](tushitsaxena.netlify.app/) 
 
 - 💬 ask me about anything, i am happy to help 
 
