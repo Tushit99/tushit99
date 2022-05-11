@@ -11,9 +11,7 @@ Hello stranger! my name is Tushit Saxena and I am a Full Stack Developer, passio
 
 - 👯 I’m looking to collaborate on **LinkedIn & GitHub**
 
-- 📫 Reach me on **tushitsaxena4@gmail.com**
-
-- 📄 Know about [ my experiences ](tushitsaxena.netlify.app/) 
+- 📫 Reach me on **tushitsaxena4@gmail.com** 
 
 - 💬 ask me about anything, i am happy to help 
 
@@ -21,7 +19,7 @@ Hello stranger! my name is Tushit Saxena and I am a Full Stack Developer, passio
 
 - ⚡ Fun Fact: Imagination is more important than knowledge 
 
-- 💬 Have a look at my https://tushitsaxena.netlify.app
+- 💬 Have a look at my [Portfolio](https://tushitsaxena.netlify.app)
 
 
 
