@@ -1,5 +1,7 @@
-<h1 align="center">Hi,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Tushit Saxena</h1>
-<h3 align="center"> Learning Full-Stack Web Development at Masai School.</h3>
+<h2 align="center">
+  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href=""> Tushit Saxena 💻</a>!
+   
+</h2>
 
 Hello stranger! my name is Tushit Saxena and I am a Full Stack Developer, passionate about building digital products that improve everyday experience for people. I love to work on exciting projects that test what I've learnt, whilst being exposed to the power and potential of the ever-evolving technologies around us. 
 
@@ -29,13 +31,21 @@ Hello stranger! my name is Tushit Saxena and I am a Full Stack Developer, passio
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tushit99&show_icons=true&locale=en&layout=compact" alt="tushit99" /></p>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tushit99&show_icons=true&locale=en" alt="tushit99" /></p>
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tushit99&" alt="tushit99" /></p>
+<br> 
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
-<h3 align="left">Connect me :</h3>
-<p align="left">
-<a href="https://twitter.com/tushit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tushit" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tushit saxena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tushit saxena" height="30" width="40" /></a>
-<a href="https://fb.com/tushit saxena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tushit saxena" height="30" width="40" /></a>
-<a href="https://instagram.com/tushit_saxena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tushit_saxena" height="30" width="40" /></a>
-</p>
+<a href="https://www.linkedin.com/in/tushit-saxena/" target = "_blank">
+  <img align="left" alt="Tushit's LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://twitter.com/Tushit84308444" target = "_blank">
+  <img align="left" alt="Tushit | Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.facebook.com/tushit.saxena/" target = "_blank">
+  <img align="left" alt="Tushit | Facebook" width="55px" src="https://img.icons8.com/color/2x/facebook.png" />
+</a>
+<a href="https://www.instagram.com/tushit_saxena/" target = "_blank">
+  <img align="left" alt="Tushit | Instagram" width="55px" src="https://img.icons8.com/fluency/2x/instagram-new.png" />
+</a>
+
+
+
