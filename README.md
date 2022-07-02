@@ -53,15 +53,12 @@ Hello stranger! my name is Tushit Saxena and I am a Full Stack Developer, passio
 
 <img align="center" width="500px" height="250px" src="https://raw.githubusercontent.com/suubh/suubh/output/github-contribution-grid-snake.svg" />
 
-<p align="center"> 
-        <img height= "200px" width ="45%" src="https://github-readme-stats.vercel.app/api?username=AmbujKrAK&theme=react&show_icons=true&include_all_commits=true" />
-        <img height= "200px" width ="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmbujKrAK&theme=react&layout=compact" />
- </p> 
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tushit99&show_icons=true&locale=en&layout=compact" alt="tushit99" /></p>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tushit99&show_icons=true&locale=en" alt="tushit99" /></p>
 <br> 
+
+
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
 <a href="https://www.linkedin.com/in/tushit-saxena/" target = "_blank">
