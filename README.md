@@ -1,11 +1,15 @@
 <h2 align="center">
   Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href=""> Tushit Saxena 💻</a>!
-   
-</h2>
+</h2> 
 
-Hello stranger! my name is Tushit Saxena and I am a Full Stack Developer, passionate about building digital products that improve everyday experience for people. I love to work on exciting projects that test what I've learnt, whilst being exposed to the power and potential of the ever-evolving technologies around us. 
+
+Hello stranger! my name is Tushit Saxena and I am a Full Stack Developer, passionate about building digital products that improve everyday experience for people. I love to work on exciting projects that test what I've learnt, whilst being exposed to the power and potential of the ever-evolving technologies around us.  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushit99&label=Profile%20views&color=0e75b6&style=flat" alt="tushit99" /> </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Web%20Developer;MERN%20STACK;Passionate%20Coder;Masai%20School%20taught%20Programmer&center=true&width=500&height=50" >
+</p>
 
 - 🔭 I’m currently working on **Frontend & Backend**
 
