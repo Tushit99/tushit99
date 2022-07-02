@@ -3,7 +3,7 @@
 </h2> 
 
 
-Hello stranger! my name is Tushit Saxena and I am a Full Stack Developer, passionate about building digital products that improve everyday experience for people. I love to work on exciting projects that test what I've learnt, whilst being exposed to the power and potential of the ever-evolving technologies around us.  
+Hello stranger! my name is Tushit Saxena and I am a Full Stack Developer, passionate about building digital products that improve everyday experience for people. I love to work on exciting projects that test what I've learnt. Working with MERN stack and programming languages like JavaScript for web development. Looking forward to some interesting and challenging opportunities.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushit99&label=Profile%20views&color=0e75b6&style=flat" alt="tushit99" /> </p>
 
