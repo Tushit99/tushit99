@@ -27,7 +27,7 @@ Hello stranger! my name is Tushit Saxena and I am a Full Stack Developer, passio
 
 - 💬 Have a look at my [Portfolio](https://tushitsaxena.netlify.app)
 
-<h2>🥇 Skills:  </h2>
+<h2>🥇 Skills:  </h2> 
  <img align="right" alt="GIF" clear = "both" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="440" height="250" />
 
 <p align="left"> 
@@ -43,7 +43,20 @@ Hello stranger! my name is Tushit Saxena and I am a Full Stack Developer, passio
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45" alt="postman"/>
     <img src="https://img.icons8.com/color/48/000000/git.png" alt="git"/>  
 </p>  
+<br/>
+<br/> 
+<br/>
+<br/>
+<br/>
 
+## 📊 My Github Stats 
+
+<img align="center" width="500px" height="250px" src="https://raw.githubusercontent.com/suubh/suubh/output/github-contribution-grid-snake.svg" />
+
+<p align="center"> 
+        <img height= "200px" width ="45%" src="https://github-readme-stats.vercel.app/api?username=AmbujKrAK&theme=react&show_icons=true&include_all_commits=true" />
+        <img height= "200px" width ="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmbujKrAK&theme=react&layout=compact" />
+ </p> 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tushit99&show_icons=true&locale=en&layout=compact" alt="tushit99" /></p>
 <br>
