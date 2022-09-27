@@ -30,23 +30,9 @@ Hello stranger! my name is Tushit Saxena and I am a Full Stack Developer, passio
 <h2>🥇 Skills:  </h2> 
  <img align="right" alt="GIF" clear = "both" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="440" height="250" />
 
-<p align="left"> 
-    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html-5"/> 
-    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3"/>
-    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="48" height="48"/>
-    <img src="https://img.icons8.com/officel/80/000000/react.png" alt="reactjs"  width="48" height="48"/>
-    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs"/> 
-    <img src="https://img.icons8.com/color/48/000000/redux.png" alt="redux"/>
-    <img src="https://img.icons8.com/color/48/000000/npm.png"  alt="npm"/>   
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45" alt="postman"/>
-    <img src="https://img.icons8.com/color/48/000000/git.png" alt="git"/>  
-</p>  
-<br/>
-<br/> 
-<br/>
-<br/>
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
 <br/>
 
 ## 📊 My Github Stats 
@@ -60,18 +46,7 @@ Hello stranger! my name is Tushit Saxena and I am a Full Stack Developer, passio
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
-<a href="https://www.linkedin.com/in/tushit-saxena/" target = "_blank">
-  <img align="left" alt="Tushit's LinkedIn" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://twitter.com/Tushit84308444" target = "_blank">
-  <img align="left" alt="Tushit | Twitter" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.facebook.com/tushit.saxena/" target = "_blank">
-  <img align="left" alt="Tushit | Facebook" width="55px" src="https://img.icons8.com/color/2x/facebook.png" />
-</a>
-<a href="https://www.instagram.com/tushit_saxena/" target = "_blank">
-  <img align="left" alt="Tushit | Instagram" width="55px" src="https://img.icons8.com/fluency/2x/instagram-new.png" />
-</a>
-
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/tushit.saxena) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/tushit_saxena/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tushit-saxena/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Tushit84308444) 
 
 
