@@ -51,7 +51,6 @@ Hello stranger! my name is Tushit Saxena and I am a Full Stack Developer, passio
 
 ## 📊 My Github Stats 
 
-<img align="center" width="500px" height="250px" src="https://raw.githubusercontent.com/suubh/suubh/output/github-contribution-grid-snake.svg" />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tushit99&show_icons=true&locale=en&layout=compact" alt="tushit99" /></p>
 <br>
