@@ -39,6 +39,7 @@ Hello stranger! my name is Tushit Saxena and I am a Full Stack Developer, passio
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tushit99&show_icons=true&locale=en&layout=compact" alt="tushit99" /></p>
+<br> 
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tushit99&show_icons=true&locale=en" alt="tushit99" /></p>
 <br> 
