@@ -11,6 +11,10 @@ Hello stranger! my name is Tushit Saxena and I am a Full Stack Developer, passio
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Web%20Developer;MERN%20STACK;Passionate%20Coder;Masai%20School%20taught%20Programmer&center=true&width=500&height=50" >
 </p>
 
+<p>
+<img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Tushit Saxena 🏽; I am a Full-stack%20web%20developer 🏻‍💻; interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000">
+</p>
+
 - 🔭 I’m currently working on **Frontend & Backend**
 
 - 🌱 I’m currently learning **MERN stack**
@@ -55,6 +59,10 @@ Hello stranger! my name is Tushit Saxena and I am a Full Stack Developer, passio
 <img src="https://streak-stats.demolab.com?user=tushit99&_border=true&theme=dark&hide_border=true&theme=react" style="width: 40%" />
 
 </div>
+
+ <h2 align="left">⚡Activity Graph:</h2>
+  <a><img alt="Pallavi Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=tushit99&theme=react-dark&hide_border=true" /></a>
+
 
 <br> 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
