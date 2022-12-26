@@ -41,11 +41,21 @@ Hello stranger! my name is Tushit Saxena and I am a Full Stack Developer, passio
 <br/>
 
 ## 📊 My Github Stats 
+<!-- github status  -->
 
+<div align="center" style="display: flex; gap:50px">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tushit99&show_icons=true&locale=en&layout=compact" alt="tushit99" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=tushit99&theme=react&border_radius=4.6&show_icons=true&count_private=true&hide_border=true&show_icons=true" style="width: 40%" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tushit99&show_icons=true&locale=en" alt="tushit99" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushit99&theme=react&border_radius=4.6&hide_border=true&layout=compact&show_icons=true" style="width: 40%" />
+
+</div>
+<div align="center" style="display: flex; ">
+ 
+<img src="https://streak-stats.demolab.com?user=tushit99&_border=true&theme=dark&hide_border=true&theme=react" style="width: 40%" />
+
+</div>
+
 <br> 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
