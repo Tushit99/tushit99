@@ -13,7 +13,7 @@ Hello stranger! I am a Full Stack Developer, passionate about building digital p
           <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Tushit Saxena 🏽; I am a Full-stack%20web%20developer 🏻‍💻; interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
       </p>
       
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img width="100%" src="https://www.animatedimages.org/data/media/562/animated-line-image-0387.gif">
 
 
 
@@ -42,6 +42,8 @@ Hello stranger! I am a Full Stack Developer, passionate about building digital p
 
 
 <h2>🥇 Skills:  </h2>   
+  <picture> <img align="right" src="https://camo.githubusercontent.com/3997f3b27a68e19c31e2d1c378d77303735faa42e7d18a8018f7510d66aaa83e/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966" width = 400px></picture>
+
 
 <p >
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
@@ -60,20 +62,13 @@ Hello stranger! I am a Full Stack Developer, passionate about building digital p
 </p>
 
 <br/>
-
-<div align="center">
-        <img src="https://camo.githubusercontent.com/3997f3b27a68e19c31e2d1c378d77303735faa42e7d18a8018f7510d66aaa83e/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966" width="50%"/>
- 
-</div>
+<br/> 
+<br/>
 
 ## 📊 My Github Stats 
 <!-- github status  -->
 
-<div align="center" style="display: flex; gap:50px"> 
-
-<!-- ---> 
-
-<!--- --->
+<div align="center" style="display: flex; gap:50px">   
 
 <img src="https://github-readme-stats.vercel.app/api?username=tushit99&theme=react&border_radius=4.6&show_icons=true&count_private=true&hide_border=true&show_icons=true" style="width: 40%" />
 
@@ -94,4 +89,6 @@ Hello stranger! I am a Full Stack Developer, passionate about building digital p
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/tushit.saxena) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/tushit_saxena/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tushit-saxena/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Tushit84308444) 
+
+<img width="100%" src="https://www.animatedimages.org/data/media/562/animated-line-image-0124.gif">
 
