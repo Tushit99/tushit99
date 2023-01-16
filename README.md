@@ -16,6 +16,13 @@ Hello stranger! my name is Tushit Saxena and I am a Full Stack Developer, passio
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
+
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 320px></picture>
+
+<br>
+
+
+
 - 🔭 I’m currently working on **Frontend & Backend**
 
 - 🌱 I’m currently learning **MERN stack**
@@ -34,7 +41,8 @@ Hello stranger! my name is Tushit Saxena and I am a Full Stack Developer, passio
 
 
 
-<h2>🥇 Skills:  </h2>  
+<h2>🥇 Skills:  </h2>   
+
 <p >
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" /> 
@@ -61,7 +69,11 @@ Hello stranger! my name is Tushit Saxena and I am a Full Stack Developer, passio
 ## 📊 My Github Stats 
 <!-- github status  -->
 
-<div align="center" style="display: flex; gap:50px">
+<div align="center" style="display: flex; gap:50px"> 
+
+<!-- ---> 
+
+<!--- --->
 
 <img src="https://github-readme-stats.vercel.app/api?username=tushit99&theme=react&border_radius=4.6&show_icons=true&count_private=true&hide_border=true&show_icons=true" style="width: 40%" />
 
