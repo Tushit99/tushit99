@@ -37,7 +37,7 @@ Hello stranger! I am a Full Stack Developer, passionate about building digital p
 
 - ⚡ Fun Fact: Imagination is more important than knowledge 
 
-- 💬 Have a look at my [Portfolio](https://tushit99.github.io/) 
+- 💬 Have a look at my [Resume](https://drive.google.com/file/d/1QDtKhJGLNZtCdd9Ia-8mJ1tMNs5fm-hg/view?usp=sharing) and [Portfolio](https://tushit99.github.io/) 
 
 
 
