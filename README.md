@@ -4,12 +4,9 @@
 
 Hello stranger! I am a Full Stack Developer, passionate about building digital products that improve everyday experience for people. I love to work on exciting projects that test what I've learnt. Working with MERN stack and programming languages like JavaScript for web development. Looking forward to some interesting and challenging opportunities. 
 
-<!-- <img align="center" alt="Coding" width="100%" style="text-align:center" src="https://user-images.githubusercontent.com/97578587/218312637-c3b6a78f-9690-4fd0-a80c-172eb11adddb.png"> -->
 
 <img align="center" alt="Coding" width="100%" style="text-align:center" src="https://user-images.githubusercontent.com/97578587/218316693-a3a0ff27-45b7-40b4-81ad-cfc5f25bfac9.png">
 
-
-<!-- <img align="center" alt="Coding" width="100%" style="text-align:center" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">  -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushit99&label=Profile%20views&color=0e75b6&style=flat" alt="tushit99" /> </p>
 
@@ -94,8 +91,6 @@ Hello stranger! I am a Full Stack Developer, passionate about building digital p
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushit-saxena/)  
-<!-- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/tushit.saxena)  --> 
-<!-- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Tushit84308444)  -->
 
 
 
