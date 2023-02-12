@@ -4,7 +4,9 @@
 
 Hello stranger! I am a Full Stack Developer, passionate about building digital products that improve everyday experience for people. I love to work on exciting projects that test what I've learnt. Working with MERN stack and programming languages like JavaScript for web development. Looking forward to some interesting and challenging opportunities. 
 
-<img align="center" alt="Coding" width="100%" style="text-align:center" src="https://user-images.githubusercontent.com/97578587/218312637-c3b6a78f-9690-4fd0-a80c-172eb11adddb.png">
+<!-- <img align="center" alt="Coding" width="100%" style="text-align:center" src="https://user-images.githubusercontent.com/97578587/218312637-c3b6a78f-9690-4fd0-a80c-172eb11adddb.png"> -->
+
+<img align="center" alt="Coding" width="100%" style="text-align:center" src="https://user-images.githubusercontent.com/97578587/218316693-a3a0ff27-45b7-40b4-81ad-cfc5f25bfac9.png">
 
 
 <!-- <img align="center" alt="Coding" width="100%" style="text-align:center" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">  -->
