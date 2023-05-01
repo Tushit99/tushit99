@@ -19,10 +19,7 @@ Hello stranger! I am a Full Stack Developer, passionate about building digital p
       
 <img width="100%" height="3px" src="https://www.animatedimages.org/data/media/562/animated-line-image-0387.gif">
 
-
-
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 320px></picture>
-
+ 
 <br>
 
 
