@@ -25,7 +25,7 @@ Hello stranger! I am a Full Stack Developer, passionate about building digital p
 <br/>
 <br/>  
 
-<p width="400px">
+<p width="600px" >
 
 - 🔭 I’m currently working on **Frontend & Backend**
 
