@@ -20,12 +20,13 @@ Hello stranger! I am a Full Stack Developer, passionate about building digital p
 <img width="100%" height="3px" src="https://www.animatedimages.org/data/media/562/animated-line-image-0387.gif">
 
  
-<img align="right" width="440px" src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/8.Cool-Animation/Keep_Coding.gif" width = 320px> 
+<img align="right" width="380px" src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/8.Cool-Animation/Keep_Coding.gif" width = 320px> 
  
 <br/>
 <br/>  
+<br/>  
 
-<p width="600px" >
+<p width="50%" >
 
 - 🔭 I’m currently working on **Frontend & Backend**
 
