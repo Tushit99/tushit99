@@ -22,7 +22,8 @@ Hello stranger! I am a Full Stack Developer, passionate about building digital p
  
 <img align="right" width="440px" src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/8.Cool-Animation/Keep_Coding.gif" width = 320px> 
  
-<br>
+<br/>
+<br/>  
 
 <p width="400px">
 
