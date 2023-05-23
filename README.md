@@ -74,9 +74,9 @@ Hello stranger! I am a Full Stack Developer, passionate about building digital p
 <!-- github status  -->
 
 <div align="center" style="display: flex; gap:50px">   
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tushit99&show_icons=true&hide_border=true&include_all_commits=true&theme=react&locale=en" alt="truethari" style="width: 40%" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=tushit99&show_icons=true&hide_border=true&include_all_commits=true&theme=react&locale=en" alt="tushit" style="width: 40%" />
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=tushit99&theme=react&border_radius=4.6&show_icons=true&count_private=true&hide_border=true&show_icons=true" style="width: 40%" /> -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=truethari&show_icons=true&hide_border=true&theme=react&locale=en&layout=compact" alt="truethari" style="width: 40%" /> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=truethari&show_icons=true&hide_border=true&theme=react&locale=en&layout=compact" alt="tushit" style="width: 40%" /> 
   
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushit99&theme=react&border_radius=4.6&hide_border=true&layout=compact&show_icons=true" style="width: 40%" /> -->
 
@@ -87,8 +87,8 @@ Hello stranger! I am a Full Stack Developer, passionate about building digital p
 
 </div>
 
- <h2 align="left">⚡Activity Graph:</h2>
-  <a><img alt="Tushit Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=tushit99&theme=react-dark&hide_border=true" /></a>
+<!--  <h2 align="left">⚡Activity Graph:</h2> -->
+<!--   <a><img alt="Tushit Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=tushit99&theme=react-dark&hide_border=true" /></a> -->
 
 
 <br> 
