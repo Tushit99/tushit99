@@ -90,6 +90,10 @@ Hello stranger! I am a Full Stack Developer, passionate about building digital p
 <!--  <h2 align="left">⚡Activity Graph:</h2> -->
 <!--   <a><img alt="Tushit Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=tushit99&theme=react-dark&hide_border=true" /></a> -->
 
+<p align="center"> 
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tushit99&theme=react" />
+</p>
+
 
 <br> 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
